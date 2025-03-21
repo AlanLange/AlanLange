@@ -9,7 +9,7 @@
 
 Soy estudiante de Analista en Tecnologías de la Información en la Facultad de Ingeniería ORT. Apasionado por el desarrollo de aplicaciones que resuelven problemas del mundo real.
 
-**Para conocer más sobre mí, mis proyectos y trayectoria, visita mi [portfolio completo](https://AlanLange.github.io/)!**
+**Para conocer más sobre mí, mis proyectos y trayectoria, visita mi [portfolio completo]([https://AlanLange.github.io/](https://alanlange.github.io/))!**
 
 ## 🛠️ Stack Tecnológico
 
@@ -33,7 +33,7 @@ Soy estudiante de Analista en Tecnologías de la Información en la Facultad de 
 ### Sistema de Gestión de Pacientes
 Un sistema integral para la administración de registros médicos y gestión de citas desarrollado con Node.js y Postgre Sql.
 
-**[Ver más proyectos en mi portfolio →](https://AlanLange.github.io/)**
+**[Ver más proyectos en mi portfolio →]([[https://AlanLange.github.io/](https://alanlange.github.io/](https://alanlange.github.io/)))**
 
 ---
 
