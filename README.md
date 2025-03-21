@@ -35,26 +35,3 @@ Si quieres conocer más acerca de mis proyectos, habilidades y experiencia, ¡vi
 </div>
 
 ---
-
-## ⭐ **Proyecto Destacado**  
-
-### Sistema de Gestión de Pacientes  
-> Un sistema integral para la administración de registros médicos y gestión de citas, desarrollado con **Node.js** y **PostgreSQL**.  
->  
-> **Funcionalidades clave:**  
-> - Creación y administración de perfiles de pacientes  
-> - Programación y seguimiento de citas médicas  
-> - Gestión de historiales de consultas  
-
-Para más detalles e información sobre otros proyectos, visita mi [portfolio](https://alanlange.github.io/).  
-
----
-
-<div align="center">
-  
-### ¿Listo para colaborar?
-<i>¡Contáctame a través de cualquiera de mis redes o vía email!</i>
-
-</div>
-
----
