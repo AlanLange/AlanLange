@@ -1,16 +1,23 @@
-# 👨‍💻 Alan Langelan
+<div align="center">
+  
+# ⚡️ **¡Hola, soy Alan Langelan!** ⚡️
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alan-langelan-320862352/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-3b82f6?style=for-the-badge&logo=react&logoColor=white)](https://alanlange.github.io/)
 [![Email](https://img.shields.io/badge/Email-langelanalan%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:langelanalan@gmail.com)
 
-## 👋 Hola!
+</div>
 
-Soy estudiante de Analista en Tecnologías de la Información en la Facultad de Ingeniería ORT. Apasionado por el desarrollo de aplicaciones que resuelven problemas del mundo real.
+---
 
-**Para conocer más sobre mí, mis proyectos y trayectoria, visita mi [portfolio completo](https://alanlange.github.io/).**
+## 🗣️ **Sobre mí**
 
-## 🛠️ Stack Tecnológico
+Estudiante de Analista en Tecnologías de la Información en la Facultad de Ingeniería ORT, con pasión por crear aplicaciones que resuelven problemas del mundo real.  
+Si quieres conocer más acerca de mis proyectos, habilidades y experiencia, ¡visita mi [portfolio completo](https://alanlange.github.io/)!  
+
+---
+
+## 🛠️ **Stack Tecnológico**
 
 <div align="center">
   
@@ -22,19 +29,32 @@ Soy estudiante de Analista en Tecnologías de la Información en la Facultad de 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 [![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)]()
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)]()
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
 
 </div>
 
-## 💻 Proyecto Destacado
+---
 
-### Sistema de Gestión de Pacientes
-Un sistema integral para la administración de registros médicos y gestión de citas desarrollado con Node.js y PostgreSQL.
+## ⭐ **Proyecto Destacado**  
 
-**[Ver más proyectos en mi portfolio →](https://alanlange.github.io/)**
+### Sistema de Gestión de Pacientes  
+> Un sistema integral para la administración de registros médicos y gestión de citas, desarrollado con **Node.js** y **PostgreSQL**.  
+>  
+> **Funcionalidades clave:**  
+> - Creación y administración de perfiles de pacientes  
+> - Programación y seguimiento de citas médicas  
+> - Gestión de historiales de consultas  
+
+Para más detalles e información sobre otros proyectos, visita mi [portfolio](https://alanlange.github.io/).  
 
 ---
 
 <div align="center">
-  <i>¿Interesado en colaborar? ¡No dudes en contactarme mediante mi portfolio!</i>
+  
+### ¿Listo para colaborar?
+<i>¡Contáctame a través de cualquiera de mis redes o vía email!</i>
+
 </div>
+
+---
