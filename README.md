@@ -8,15 +8,7 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
 
-<div align="center">
-  <table align="center" border="0">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=alanlange&show_icons=true&theme=tokyonight&hide_border=true" />
-      </td>
-    </tr>
-  </table>
-</div>
+---
 
 <div align="center">
   <h3>👨‍💻 Alan Langelan</h3>
@@ -34,6 +26,7 @@
 </div>
 
 ---
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Clean+Architecture+%26+MVC;Estudiante+en+ORT;Apasionado+por+el+desarrollo+web" />
 </div>
@@ -50,29 +43,9 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=alanlange&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanlange&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=alanlange&theme=tokyonight&hide_border=true" />
-</div>
-
-
-
-### 📫 Contacto
+## 📫 Contacto
 
 📧 **langelanalan@gmail.com**  
 🌐 **https://alanlange.github.io/**  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=alanlange&color=blue&style=for-the-badge)
-
-</div>
