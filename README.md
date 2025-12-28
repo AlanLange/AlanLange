@@ -34,7 +34,6 @@
 </div>
 
 ---
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Clean+Architecture+%26+MVC;Estudiante+en+ORT;Apasionado+por+el+desarrollo+web" />
 </div>
@@ -53,14 +52,17 @@
 
 ## 📊 GitHub Stats
 
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alanlange&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alanlange&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanlange&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
----
+<br/>
 
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=alanlange&theme=tokyonight&hide_border=true" />
+</div>
+
 
 ### 📫 Contacto
 
